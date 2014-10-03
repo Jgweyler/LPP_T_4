@@ -1,1 +1,18 @@
 Trabajo en equipo con git
+
+49.¿Cuál es la diferencia entre compilación e interpretación?
+La compilación traduce todo el código en lenguaje máquina para poder  crear un fichero ejecutable. Sin embargo, la interpretación analiza línea por línea y las va ejecutando iterativamente.
+
+54. ¿Qué permisos tiene el ﬁchero helloWorld.sh? ¿Se puede ejecutar directamente? (./helloWorld.sh)
+
+Tiene permisos de lectura, escritura y ejecución. Se puede ejecutar directamente.
+
+55. ¿Qué permisos tiene el ﬁchero helloWorld.rb? ¿Se puede ejecutar directamente? (./helloWorld.rb)
+
+Tiene los mismos permisos que el fichero helloWorld.sh, no obstante, no se puede ejecutar directamente ya que éste no especifica el intérprete en el fichero fuente, por lo que hay que especificarlo en la línea de comandos.
+
+56. La diferencia entre los dos se encuentra en que en el .sh sí se especifica el intérprete, mientras que en el fichero .rb no.
+
+
+
+
